@@ -1,1 +1,1 @@
-web: gunicorn leon2.wsgi
+web: gunicorn lil2.wsgi
